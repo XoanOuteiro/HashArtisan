@@ -3,7 +3,7 @@ A very simple command-based hash dictionary creator for MD5 and Sha-256
 
 ---
 
-##Important usage disclaimer:
+## Important usage disclaimer:
 
 This project is currently a work in progress, I cannot guarantee that it will work in every given situation.
 
