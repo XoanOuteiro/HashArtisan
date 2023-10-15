@@ -4,7 +4,7 @@ class Digest:
 
     def __init__(self):
 
-        pass
+        self.digests = {}
         
     def getMD5of(self, s : str):
 
