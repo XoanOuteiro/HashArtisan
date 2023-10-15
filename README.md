@@ -18,8 +18,6 @@ To utilize this app's latest build simply download or clone this repository.
 HashArtisan requires the latest Python version and the alive_progress package which may be installed
 via this command on your console terminal of choice:
 
-'''sh
-
+```shell
   pip install alive_progress
-
-'''
+```
