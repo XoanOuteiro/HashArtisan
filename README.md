@@ -15,11 +15,10 @@ This application was developed for the ethical testing of a given system's secur
 
 To utilize this app's latest build simply download or clone this repository.
 
-HashArtisan requires the latest Python version and the alive_progress package which may be installed
-via this command on your console terminal of choice:
+Then move into the repository and run
 
 ``` shell
-pip install alive_progress
+pip install -r requirements.txt
 ```
 
 ---
